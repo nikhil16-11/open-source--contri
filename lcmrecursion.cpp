@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//recursive code
 int gcd( int m,  int n)
 {
     if (n == 0)
