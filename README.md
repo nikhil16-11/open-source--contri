@@ -1,2 +1,2 @@
 # open-source--contri
-hacktoberfest
+Participating in Hacktoberfest as a maintainer.
