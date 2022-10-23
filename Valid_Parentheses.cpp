@@ -1,3 +1,9 @@
+/*
+  Name: Lakshay Goel
+  Github: https://github.com/MrLakshay
+  Statement: Given a string give if string have valid Parentheses
+  Time Complexity: O(n)
+*/
 #include <iostream>
 #include <stack>
 using namespace std;
